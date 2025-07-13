@@ -22,8 +22,8 @@ Built with:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/marco-life-copilot.git
-cd marco-life-copilot
+git clone https://github.com/RawadZaidan/co-bot.git
+cd co-bot
 ```
 
 ### 2. Install Dependencies
